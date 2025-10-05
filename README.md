@@ -5,20 +5,6 @@ The project combines **Python-based analysis** with an **interactive Tableau das
 
 ---
 
-## 📂 Repository Structure
-uber-revenue-optimization/
-│
-├── notebooks/
-│ └── NL_uber.ipynb # Jupyter notebook with full analysis
-│
-├── reports/
-│ ├── NL_Uber.pdf # final project report
-│ └── Dashboard.png # Tableau dashboard snapshot
-│
-└── README.md # project documentation
-
----
-
 ## 📌 Project Overview
 Uber runs millions of trips daily, but not every ride contributes equally to revenue.  
 The purpose of this project is to:
@@ -88,11 +74,7 @@ The purpose of this project is to:
 To run the notebook, install dependencies:
 ```bash
 pip install -r requirements.txt
-Typical dependencies
-pandas
-numpy
-matplotlib
-seaborn
+```
 👤 Author
 Ansh Jain
 Aspiring Data Analyst | Turning Data Into Decisions 
