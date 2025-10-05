@@ -75,7 +75,11 @@ To run the notebook, install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-👤 Author
-Ansh Jain
-Aspiring Data Analyst | Turning Data Into Decisions 
-📧 anshjain14092004@gmail.com
+---
+
+## 👤 Author
+**Ansh Jain**  
+Business Analyst | Data Analyst Fellowship  
+
+📧 [anshjain@example.com](mailto:anshjain@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anshjain2u/) |
